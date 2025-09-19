@@ -2,3 +2,5 @@ getting user data
 just there
 
 create avatar for user
+
+login and logout
