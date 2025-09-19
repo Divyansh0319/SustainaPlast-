@@ -1,6 +1,5 @@
 add and remove users
 change the applied roles.
-manage the database
 surpassing firewall
 
 change 1 
